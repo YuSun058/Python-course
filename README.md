@@ -5,8 +5,8 @@
 1. Variables
 2. Strings
 3. Escape Sequences: \\',  \\",   \n and double \
-4. Formatted Strings: f"x: {x}, y: {y}"
-5. String Methods: lower/upper case, strip, find, replace
+4. Formatted Strings: *f"x: {x}, y: {y}"*
+5. String Methods: *lower/upper case, strip, find, replace*
 6. Numbers
-7. Work with Numbers: Math Module
-8. Type Conversion: int(x), float(x), str(x), bool(x) 
+7. Work with Numbers: *Math Module*
+8. Type Conversion: *int(x), float(x), str(x), bool(x)* 
