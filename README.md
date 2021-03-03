@@ -14,5 +14,5 @@
 ## [Classes](https://github.com/YuSun058/Python-course/blob/3c27694848155ca3f53b606fe3109d1e1f3a2aae/Classes/classes.pdf)
 1. Classes
 2. Creating Classes
-3. Constructors: "\__init\__()"
+3. Constructors: "__init__()"
 4. Class *vs* Instance Attributes
