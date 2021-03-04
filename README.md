@@ -16,3 +16,8 @@
 2. Creating Classes
 3. Constructors: "\_\_init\_\_()"
 4. Class *vs* Instance Attributes
+5. Class *vs* Instance Methods
+6. Magic Methods: "\_\_init\_\_()", "\_\_str\_\_()"
+7. Comparing Objects: "\_\_eq\_\_()", "\_\_gt\_\_()", "\_\_lt\_\_()", "\_\_ge\_\_()", "\_\_le\_\_()", ...
+8. Performing Arithmetic Operations: "\_\_add\_\_()", "\_\_mul\_\_()", ...
+
