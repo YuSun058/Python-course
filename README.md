@@ -20,4 +20,5 @@
 6. Magic Methods: "\_\_init\_\_()", "\_\_str\_\_()"
 7. Comparing Objects: "\_\_eq\_\_()", "\_\_gt\_\_()", "\_\_lt\_\_()", "\_\_ge\_\_()", "\_\_le\_\_()", ...
 8. Performing Arithmetic Operations: "\_\_add\_\_()", "\_\_mul\_\_()", ...
-
+9. Making Custom Containers: add(), `__getitem()`, `__setitem()`, `__len__()`, `__iter__()`
+10. Private Members
