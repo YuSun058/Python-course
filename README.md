@@ -11,7 +11,7 @@
 7. Work with Numbers: *Math Module*
 8. Type Conversion: *`int(x)`, `float(x)`, `str(x)`, `bool(x)`* 
 
-## [Classes](https://github.com/YuSun058/Python-course/blob/3c27694848155ca3f53b606fe3109d1e1f3a2aae/Classes/classes.pdf)
+## [Classes](https://github.com/YuSun058/Python-course/blob/b1957a513e985b967803ad33ab40b83781a5e421/Classes/classes.pdf)
 1. Classes
 2. Creating Classes
 3. Constructors: `__init__()`
