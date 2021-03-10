@@ -22,3 +22,10 @@
 8. Performing Arithmetic Operations: `__add__()`, `__mul__()`, ...
 9. Making Custom Containers: `add()`, `__getitem()`, `__setitem()`, `__len__()`, `__iter__()`
 10. Private Members
+11. Properties
+12. Inheritance
+13. The Object Class
+14. Method Overriding
+15. Multi-level Inheritance
+16. Multiple Inheritance
+17. 
