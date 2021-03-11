@@ -12,25 +12,24 @@
 8. Type Conversion: *`int(x)`, `float(x)`, `str(x)`, `bool(x)`* 
 
 ## [Classes](https://github.com/YuSun058/Python-course/blob/b1957a513e985b967803ad33ab40b83781a5e421/Classes/classes.pdf)
-1. Classes
-2. Creating Classes
-3. Constructors: `__init__()`
-4. Class *vs* Instance Attributes
-5. Class *vs* Instance Methods
-6. Magic Methods: `__init__()`, `__str__()`
-7. Comparing Objects: `__eq__()`, `__gt__()`, `__lt__()`, `__ge__()`, `__le__()`, ...
-8. Performing Arithmetic Operations: `__add__()`, `__mul__()`, ...
-9. Making Custom Containers: `add()`, `__getitem()`, `__setitem()`, `__len__()`, `__iter__()`
-10. Private Members
-11. Properties
-12. Inheritance
-13. The Object Class
-14. Method Overriding
-15. Multi-level Inheritance
-16. Multiple Inheritance
-17. A Good Example of Inheritance
-18. Abstract Base Class
-19. Polymorphism
-20. Duck Typing
-21. Extending Built-in Types
-22. Data Classes
+1. Creating Classes
+2. Constructors: `__init__()`
+3. Class *vs* Instance Attributes
+4. Class *vs* Instance Methods
+5. Magic Methods: `__init__()`, `__str__()`
+6. Comparing Objects: `__eq__()`, `__gt__()`, `__lt__()`, `__ge__()`, `__le__()`, ...
+7. Performing Arithmetic Operations: `__add__()`, `__mul__()`, ...
+8. Making Custom Containers: `add()`, `__getitem()`, `__setitem()`, `__len__()`, `__iter__()`
+9.  Private Members
+10. Properties
+11. Inheritance
+12. The Object Class
+13. Method Overriding
+14. Multi-level Inheritance
+15. Multiple Inheritance
+16. A Good Example of Inheritance
+17. Abstract Base Class
+18. Polymorphism
+19. Duck Typing
+20. Extending Built-in Types
+21. Data Classes
