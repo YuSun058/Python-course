@@ -11,6 +11,56 @@
 7. Work with Numbers: *Math Module*
 8. Type Conversion: *`int(x)`, `float(x)`, `str(x)`, `bool(x)`* 
 
+## [Control Flow](Control_Flow\control_flow.ipynb)
+1. Comparison Operators
+2. Conditional Statements
+3. Ternary Operator
+4. Logical Operators
+5. Short-circuit Evaluation
+6. Chaining Comparison Operators
+7. For Loops
+8. For...Else
+9. Nested Loops
+10. Iterables
+11. Infinite Loops
+
+## [Functions](Functions\Functions.ipynb)
+1. Defining Functions
+2. Arguments
+3. Types of Functions
+4. Keyword Arguments
+5. Default Arguments
+6. xargs
+7. xxargs
+8. Scope
+9. Debugging
+    
+## [Data Structures](Data_Structures\data_structures.ipynb)
+1. Lists
+2. Accessing Items
+3. List Unpacking
+4. Looping over Lists
+5. Adding or Removing Items
+6. Finding Items
+7. Sorting Lists
+8. Lambda Functions
+9. Map Function
+10. Filter Function
+11. List Comprehensions
+12. Zip Function
+13. Stacks
+14. Queues
+15. Tuples
+16. Swapping Variables
+17. Arrays
+18. Sets
+19. Dictionaries
+20. Dictionary Comprehension
+21. Generator Expressions
+22. Unpacking Operator
+
+
+
 ## [Classes](https://github.com/YuSun058/Python-course/blob/84139a8cad8863219b0bbfe5f9c576d89e6a2551/Classes/classes.pdf)
 1. Creating Classes
 2. Constructors: `__init__()`
