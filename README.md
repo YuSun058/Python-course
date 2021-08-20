@@ -11,7 +11,7 @@
 7. Work with Numbers: *Math Module*
 8. Type Conversion: *`int(x)`, `float(x)`, `str(x)`, `bool(x)`* 
 
-## [Control Flow](Control_Flow\control_flow.ipynb)
+## [Control Flow](https://github.com/YuSun058/Python-course/blob/main/Control_Flow/control_flow.ipynb)
 1. Comparison Operators
 2. Conditional Statements
 3. Ternary Operator
@@ -24,7 +24,7 @@
 10. Iterables
 11. Infinite Loops
 
-## [Functions](Functions\Functions.ipynb)
+## [Functions](https://github.com/YuSun058/Python-course/blob/main/Functions/Functions.ipynb)
 1. Defining Functions
 2. Arguments
 3. Types of Functions
@@ -35,7 +35,7 @@
 8. Scope
 9. Debugging
     
-## [Data Structures](Data_Structures\data_structures.ipynb)
+## [Data Structures](https://github.com/YuSun058/Python-course/blob/main/Data_Structures/data_structures.ipynb)
 1. Lists
 2. Accessing Items
 3. List Unpacking
