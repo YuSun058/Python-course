@@ -1,7 +1,7 @@
 # Python-course  
 1. Code with Mosh - Complete Python Mastery https://codewithmosh.com/  
 
-## [Primitive Types](https://github.com/YuSun058/Python-course/blob/main/Primitive_Types/primitive_type.ipynb)
+## [Primitive Types](https://github.com/YuSun058/Python-course/blob/main/Primitive_Types/primitive_types.ipynb)
 1. Variables
 2. Strings
 3. Escape Sequences: `\'`,  `\"`,  `\n` and `\\`
