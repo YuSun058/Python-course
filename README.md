@@ -83,3 +83,13 @@
 19. Duck Typing
 20. Extending Built-in Types
 21. Data Classes
+
+## [Modules](https://github.com/YuSun058/Python-course/blob/main/Modules/Modules.ipynb)
+1. Creating Modules
+2. Complied Python Files
+3. Module Search Path
+4. Packages
+5. Sub-packages
+6. Intra-package References
+7. The dir Function
+8. Executing Modules as Scripts
