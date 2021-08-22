@@ -1,7 +1,7 @@
 # Python-course  
 1. Code with Mosh - Complete Python Mastery https://codewithmosh.com/  
 
-## [Primitive Types](https://github.com/YuSun058/Python-course/blob/c97d29bf85a050c88928f00d9ddd9a3b111aa838/Primitive%20Types/primitive_types.pdf)
+## [Primitive Types](https://github.com/YuSun058/Python-course/blob/main/Primitive_Types/primitive_type.ipynb)
 1. Variables
 2. Strings
 3. Escape Sequences: `\'`,  `\"`,  `\n` and `\\`
@@ -24,7 +24,7 @@
 10. Iterables
 11. Infinite Loops
 
-## [Functions](https://github.com/YuSun058/Python-course/blob/main/Functions/Functions.ipynb)
+## [Functions](https://github.com/YuSun058/Python-course/blob/main/Functions/functions.ipynb)
 1. Defining Functions
 2. Arguments
 3. Types of Functions
@@ -61,7 +61,7 @@
 
 
 
-## [Classes](https://github.com/YuSun058/Python-course/blob/84139a8cad8863219b0bbfe5f9c576d89e6a2551/Classes/classes.pdf)
+## [Classes](https://github.com/YuSun058/Python-course/blob/main/Classes/classes.ipynb)
 1. Creating Classes
 2. Constructors: `__init__()`
 3. Class *vs* Instance Attributes
@@ -84,7 +84,7 @@
 20. Extending Built-in Types
 21. Data Classes
 
-## [Modules](https://github.com/YuSun058/Python-course/blob/main/Modules/Modules.ipynb)
+## [Modules](https://github.com/YuSun058/Python-course/blob/main/Modules/modules.ipynb)
 1. Creating Modules
 2. Complied Python Files
 3. Module Search Path
